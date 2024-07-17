@@ -1,1 +1,1 @@
-# Expense-Tracker-React
+Expense Tracker App! This is a simple and intuitive expense tracker application built with React. The app allows users to easily manage their expenses by adding, viewing, and deleting transactions. It provides an overview of spending habits and helps users stay on top of their finances.
