@@ -107,7 +107,6 @@ function HistoryList({ onExpenseList, onDelete }) {
 		<>
 			{onExpenseList.map(expense => (
 				<div className='history-list' key={expense.id}>
-					<h1>Hello</h1>
 					<span className='delete-list' onClick={() => onDelete(expense.id)}>
 						🗑️
 					</span>
